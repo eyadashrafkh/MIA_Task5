@@ -13,33 +13,33 @@ This repository contains previous tasks organized into different branches, with 
 
 ## Tasks <a name="tasks"></a>
 
-### Task 1 <a name="task-1"></a>
+### Task 1 <a name="Task1"></a>
 
-Branch Name: [task-1](../../tree/task-1)
+Branch Name: [Task1](../../tree/Task1)
 
 Description: [Provide a brief description of Task 1]
 
 Insights: [Share any insights or important information about Task 1]
 
-### Task 2 <a name="task-2"></a>
+### Task 2 <a name="Task2"></a>
 
-Branch Name: [task-2](../../tree/task-2)
+Branch Name: [Task2](../../tree/Task2)
 
 Description: [Provide a brief description of Task 2]
 
 Insights: [Share any insights or important information about Task 2]
 
-### Task 3 <a name="task-3"></a>
+### Task 3 <a name="Task3"></a>
 
-Branch Name: [task-3](../../tree/task-3)
+Branch Name: [Task3](../../tree/Task3)
 
 Description: [Provide a brief description of Task 3]
 
 Insights: [Share any insights or important information about Task 3]
 
-### Task 4 <a name="task-4"></a>
+### Task 4 <a name="Task4"></a>
 
-Branch Name: [task-4](../../tree/task-4)
+Branch Name: [Task4](../../tree/Task4)
 
 Description: [Provide a brief description of Task 4]
 
