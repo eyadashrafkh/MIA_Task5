@@ -4,10 +4,10 @@ This repository contains previous tasks organized into different branches, with 
 
 ## Table of Contents
 - [Tasks](#tasks)
-  - [Task 1](#task-1)
-  - [Task 2](#task-2)
-  - [Task 3](#task-3)
-  - [Task 4](#task-4)
+  - [Task 1](#Task1)
+  - [Task 2](#Task2)
+  - [Task 3](#Task3)
+  - [Task 4](#Task4)
 - [Repository Structure](#repository-structure)
 - [Usage](#usage)
 
