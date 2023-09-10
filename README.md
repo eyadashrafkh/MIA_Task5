@@ -7,4 +7,4 @@ Create Linear Regression Model, and train this model on a given dataset.
 
 Insights: Learned about OOP using python and ML algorithms and datasets.
 
-return [main branch](../../tree/main)
+Return [main branch](../../tree/main)
